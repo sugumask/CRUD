@@ -1,0 +1,37 @@
+div.forminput{
+    display: block;
+    display: inline-grid;
+    margin-right: 20px;
+}
+button.forminput{
+    display: inline;
+}
+div.button-value{
+        display: inline;
+}
+div.formdata{
+    display: inline-grid;
+}
+div.formdata-main{
+    display: inline;
+    padding: 5px;
+}
+div.bio-card{
+    display: inline-grid;
+}
+input.bio-search{
+    margin-right: 10px;
+        font-size: 15px;
+        padding: 5px;
+    border-radius: 8px;
+    border-color: gray;
+    background-color: lightgray;
+}
+button.bio-search{
+    
+    border-radius: 5px;
+    background-color: darksalmon;
+    color: white;
+    font-weight: bold;
+
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "Fullname": "Test1",
+      "Email": "Test1@domain.com",
+      "Phone": "123456789",
+      "Company": "Nityo",
+      "Address": "Bangalore",
+      "id": 1
+    },
+    {
+      "Fullname": "Test2",
+      "Email": "Test2@domain.com",
+      "Phone": "234567890",
+      "Company": "IBM",
+      "Address": "Bangalore",
+      "id": 2
+    },
+    {
+      "Fullname": "Test3",
+      "Email": "Test3@domain.com",
+      "Phone": "345678901",
+      "Company": "TCS",
+      "Address": "Chennai",
+      "id": 3
+    }
+  ]
+}
